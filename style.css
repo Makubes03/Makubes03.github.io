@@ -2,9 +2,18 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
-    background-image: url(p22.jpg);
+    /*background-image: url(p22.jpg);
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;*/
+}
+
+.div{ 
+	background-image: url("图片.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 100vh;
+	width: 100%;
 }
 
 #app {
