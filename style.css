@@ -4,6 +4,9 @@ body {
     padding: 20px;
     background-image: url(p21.jpg);
     background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: #464646;
 }
 
 /*.div{ 
