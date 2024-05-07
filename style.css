@@ -7,6 +7,15 @@ body {
     background-repeat: no-repeat;
 }
 
+
+/* 在小屏幕上（如手机）竖屏模式下的样式 */
+@media screen and (max-width: 767px) and (orientation: portrait) {
+    body {
+        background-size: cover; /* 保持背景图片完全覆盖屏幕 */
+        /* 其他调整样式 */
+    }
+}
+
 #app {
     margin: auto;
     width: 90%;
