@@ -3,7 +3,7 @@ body {
     text-align: center;
     padding: 20px;
     background-image: url(p22.jpg);
-    background-size: contain;
+    background-size: over;
     background-repeat: no-repeat;
 }
 
