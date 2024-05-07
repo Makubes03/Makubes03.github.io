@@ -2,7 +2,8 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
-    background-image: url(images/p3.jpg);
+    background-image: url(images/p3.jpg)center center no-repeat;
+    
 }
 
 #app {
