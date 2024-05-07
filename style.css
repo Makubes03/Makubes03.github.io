@@ -3,6 +3,7 @@ body {
     text-align: center;
     padding: 20px;
     background-image: url(images/p22.jpg);
+    background-size: cover;
 }
 
 #app {
