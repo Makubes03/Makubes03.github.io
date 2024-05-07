@@ -2,17 +2,17 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
-    /*background-image: url(p21.jpg);
-    background-size: contain;*/
+    background-image: url(p21.jpg);
+    background-size: cover;
 }
 
-.div{ 
+/*.div{ 
 	background-image: url(p21.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
 	height: 100vh;
-	width: 100%;
+	width: 100%;*/
 }
 
 #app {
